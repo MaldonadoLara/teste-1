@@ -1,0 +1,1 @@
+f = open('arquivo2', 'r')
